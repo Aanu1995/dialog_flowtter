@@ -89,7 +89,7 @@ class DialogFlowtter {
   static const String kDialogFlowUrl = "https://dialogflow.googleapis.com";
 
   /// The DialogFlow API version that the package is currently using
-  static const String kDialogFlowApiVersion = "v2";
+  static const String kDialogFlowApiVersion = "v2beta1";
 
   /// The default JSON path used to find the auth info
   static const String kDefaultJsonPath = 'assets/dialog_flow_auth.json';
